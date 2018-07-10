@@ -6,10 +6,21 @@
     <description>Recent content in Home on j3rmbadger.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>netSEC News</title>
+      <link>/post/2018/07/09/netsec-news/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/07/09/netsec-news/</guid>
+      <description>netSEC News I was recently asked by a colleague of mine who just graduated university and started their first full time Security Analyst gig where I get my netSEC News.
+Instead of blasting away in Slack with an intermittent stream of links and commentary I thought it would be more beneficial to create a simple and concise blog post containing my current Top 5 sources.
+I&amp;rsquo;m also interested in where other security professionals get their news from.</description>
+    </item>
     
     <item>
       <title>All logs go to heaven</title>
